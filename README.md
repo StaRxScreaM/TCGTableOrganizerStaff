@@ -208,4 +208,4 @@ En conjunto, este repositorio busca ser una pieza de portafolio que ayude a pote
 1. Clonar este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/TCG-Table-Organizer-Staff.git
+   git clone https://github.com/StaRxScreaM/TCGTableOrganizerStaff
