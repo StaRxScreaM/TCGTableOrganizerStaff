@@ -17,30 +17,6 @@ El objetivo es entregar a los dueños y trabajadores de las tiendas una herramie
 - 🔄 Navegación completa con **Navigation Compose**
 - ⚙️ Base estructurada para escalabilidad futura
 
----
-
-## 📸 Capturas de pantalla
-
-> Todas las imágenes deben ir en:  
-> **`/screenshots/`** dentro del repositorio.
-
-### 🔐 Login  
-<img src="/screenshots/login.png" width="350"/>
-
-### 🏠 Home  
-<img src="/screenshots/home.png" width="350"/>
-
-### 🗓 Vista de Eventos  
-<img src="/screenshots/events.png" width="350"/>
-
-### 🪑 Mapa de Mesas  
-<img src="/screenshots/tables.png" width="350"/>
-
-### 👤 Perfil (placeholder)  
-<img src="/screenshots/profile.png" width="350"/>
-
----
-
 ## 🧩 Tecnologías utilizadas
 
 - **Kotlin**
