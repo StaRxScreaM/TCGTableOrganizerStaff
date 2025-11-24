@@ -1,4 +1,4 @@
-T# 📱 TCG Table Organizer — Staff App
+## 📱 TCG Table Organizer — Staff App
 
 Aplicación móvil desarrollada en **Android Studio + Jetpack Compose** para la gestión interna de tiendas TCG (Trading Card Games), enfocada principalmente en eventos y organización de mesas en formatos casuales como **Commander**.
 
